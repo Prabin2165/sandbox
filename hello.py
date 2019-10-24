@@ -1,3 +1,3 @@
-for i in range(1):
+for i in range(10):
     print('hello konnichiwa')
-print('see you later')    
+print('see you later')
