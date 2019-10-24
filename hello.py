@@ -1,3 +1,3 @@
-for i in range(10):
-    print('hello konnichiwa')
+for i in range(100):
+    print('hello')
 print('see you later')
